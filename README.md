@@ -1,2 +1,2 @@
-# liuaoyu.github.io
-liuaoyu个人主页
+# liuaoy.github.io
+liuaoy个人主页
